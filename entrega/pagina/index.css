@@ -1,0 +1,58 @@
+body {
+    margin: 0%;
+    background-image: url(Imagen\ de\ WhatsApp\ 2024-07-03\ a\ las\ 17.13.08_f2093b5d.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+
+    
+
+ }
+
+ .titulo-subtitulo{
+    background-color:rgb(194, 194, 132);
+    font-size: 15px;
+    text-align: center;
+    
+
+ }
+ 
+ .titulo-subtitulo:hover{
+    background-color: palevioletred;
+    cursor: pointer;
+    display:inline-flexbox;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(112, 17, 101);
+
+ }
+ .descripcion {
+    text-decoration-line:underline;
+    color: brown;
+    font-size:x-large;
+ }
+ div>p {
+    color:rgb(255, 106, 0);
+ }
+ .variedades {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ ol li {
+    text-decoration: line-through; 
+ }
+ div>h3{
+    color: rgb(145, 17, 145);
+ }
+ ul li a {
+    color:crimson;
+ }
+ a:hover{
+    cursor: cell;
+    color: blue;
+ }
+ a:visited{
+    color: black;
+    cursor: grab;
+ }
